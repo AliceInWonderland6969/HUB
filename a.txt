@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-sweet apples and black nigger
-oranges
-=======
 sweet apples
-orange oranges
->>>>>>> f305f18678e35918c00b2d18c7f030d85dfa3319
+oranges
 kiwis
 carrots
